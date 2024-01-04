@@ -1,0 +1,6 @@
+/Users/duc/Downloads/Test/Test/bin/Debug/Test.exe
+/Users/duc/Downloads/Test/Test/bin/Debug/Test.pdb
+/Users/duc/Downloads/Test/Test/obj/anycpu/Debug/Test.csproj.AssemblyReference.cache
+/Users/duc/Downloads/Test/Test/obj/anycpu/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/duc/Downloads/Test/Test/obj/anycpu/Debug/Test.exe
+/Users/duc/Downloads/Test/Test/obj/anycpu/Debug/Test.pdb
